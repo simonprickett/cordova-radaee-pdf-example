@@ -1,0 +1,6 @@
+platforms/
+plugins/
+*.log
+node_modules/
+*.bak
+.DS_Store
