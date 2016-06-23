@@ -8,4 +8,4 @@ Example Cordova App using Radaee PDF plugin and SDK.  The app and Cordova plugin
 
 Quick demo GIF of this running on iOS.
 
-![iOS Demo GIF](radaee_pdf_ios  .gif)
+![iOS Demo GIF](radaee_pdf_ios.gif)
